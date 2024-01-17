@@ -1,0 +1,24 @@
+    h1 {
+color:blue;
+font-family:helvetica;
+border:10px solid fuchsia;
+padding: 50px;
+    }
+
+    p {
+color: pink;
+    }
+
+    h2 {
+        color:purple;
+    }
+
+    body {
+        background-color:yellow;
+    }
+    img {
+        border:10px solid fuchsia;
+        width:25%;
+        height:25%;
+        margin-left:100px
+    }
